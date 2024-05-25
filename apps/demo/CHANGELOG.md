@@ -1,5 +1,14 @@
 # @apps/demo
 
+## 4.2.3
+
+### Patch Changes
+
+- feat: restricted ens names. fix: iat set automatically if not present in messageParams
+
+- Updated dependencies []:
+  - @web3modal/wagmi@4.2.3
+
 ## 4.2.2
 
 ### Patch Changes

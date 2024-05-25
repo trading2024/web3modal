@@ -1,5 +1,14 @@
 # @web3modal/scaffold-react
 
+## 4.2.3
+
+### Patch Changes
+
+- feat: restricted ens names. fix: iat set automatically if not present in messageParams
+
+- Updated dependencies []:
+  - @web3modal/scaffold@4.2.3
+
 ## 4.2.2
 
 ### Patch Changes
